@@ -82,8 +82,9 @@ body{
 
 .footer__info{
     color: #fff;
-    line-height: 30px;
+    line-height: 20px;
     font-size: 1.0rem;
+    width: 12;
 }
 
 .footer__link:nth-child(1){
