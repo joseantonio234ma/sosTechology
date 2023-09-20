@@ -50,6 +50,15 @@ body{
     color: #fff;
 }
 
+
+.img1{
+    width: 50%;
+}
+
+.conta{
+    width: 50%;
+}
+
 #page-footer{
     background-color: var(--encabezado);
 }
