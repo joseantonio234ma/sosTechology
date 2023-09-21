@@ -174,3 +174,21 @@ body {
 
     font-size: 25px;
 }
+
+.espaciado2{
+
+    padding-left: 2%;
+    padding-right: 2%;
+    width: 500px;
+}
+
+.bx{
+
+    display: flex;
+    border-style: dotted;
+}
+
+.box{
+
+    border-style: dashed;
+}
