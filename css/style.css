@@ -11,11 +11,6 @@ body {
     width: 60px;
 }
 
-.navsize{
-
-    height: 65px;
-}
-
 #menu {
     background-color: var(--encabezado) !important;
 }
