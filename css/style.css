@@ -1,6 +1,6 @@
 :root {
-    --encabezado: #f80303;
-    --enlace: #fff;
+    --encabezado: #fcfcfc;
+    --enlace: #f80f0f;
 }
 
 body {
@@ -41,7 +41,7 @@ body {
 
 /* novedades */
 #novedades {
-    background-color: #000000;
+    background-color: #d3d3d3;
 }
 
 #novedades .titulo {
@@ -52,7 +52,10 @@ body {
 
 
 .img1 {
-    width: 50%;
+
+    border-radius: 10px;
+    width: 250px;
+    height: 100%;
 }
 
 .conta {
@@ -103,7 +106,7 @@ body {
 }
 
 .ft-social {
-    color: #fff;
+    color: #000000;
     border-radius: 100%;
     height: auto;
     width: 50px;
@@ -120,14 +123,14 @@ body {
 }
 
 .footer__title {
-    color: #fff;
+    color: #000000;
     font-weight: 700;
     margin-bottom: 30px;
     font-size: 1.2remv;
 }
 
 .footer__info {
-    color: #fff;
+    color: rgb(0, 0, 0)d1d;
     line-height: 20px;
     font-size: 1.0rem;
     width: 12;
@@ -173,6 +176,7 @@ body {
 .primaryp{
 
     font-size: 25px;
+    padding-left: 2%;
 }
 
 .espaciado2{
@@ -185,10 +189,13 @@ body {
 .bx{
 
     display: flex;
-    border-style: dotted;
+    padding-left: 2%;
+    padding-right: 2%;
+    width: 100%;
+    height: 300px;
 }
 
 .box{
 
-    border-style: dashed;
+    flex: 1 1 auto;
 }
