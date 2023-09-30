@@ -338,8 +338,11 @@ ul{
 
 .boxes2{
 
-    background-color: #f3eded;
+    background-color: #e4dbdb;
     font-family: left;
+    font-size: large;
+    border-style: none;
+    border-width: 3px;
     margin: 10px , auto;
     width: 600px;
     padding: 20 px;
@@ -356,6 +359,10 @@ table{
 
 th ,td {
     padding: 10px;
+}
+
+th{
+    text-align: left;
 }
 
 .alignpro{
