@@ -17,7 +17,7 @@ body {
     border-bottom: #f80f0f;
     border-style: solid;
     border-width: 1px;
-    height: 50px;
+    height: 66px;
 }
 
 .nav-link {
@@ -57,7 +57,7 @@ body {
 .img1 {
 
     border-radius: 10px;
-    width: 250px;
+    width: 80%;
     height: 100%;
 }
 
@@ -101,7 +101,7 @@ body {
 }
 
 .footer__logo {
-    width: 150px;
+    width: 60px;
 }
 
 #page-footer .ftcontainer {
