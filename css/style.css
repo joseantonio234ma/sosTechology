@@ -397,3 +397,22 @@ th{
 
     width: 95%;
 }
+
+@media  (min-width: 468px){
+    .productphoto{
+        width: 100%;
+    }
+    
+}
+@media  (min-width: 568px){
+    .productphoto{
+        width: 100%;
+    }
+    
+}
+@media  (min-width: 768px){
+    .productphoto{
+        width: 100%;
+    }
+    
+}
