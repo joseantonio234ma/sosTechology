@@ -172,6 +172,10 @@ body {
     border-radius: 1%;
 }
 
+.ctxt{
+    height: 50%;
+}
+
 .subtext {
 
     color: #7a7a7a;
