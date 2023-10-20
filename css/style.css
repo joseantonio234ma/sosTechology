@@ -422,3 +422,117 @@ th{
     }
     
 } */
+
+@media  (min-width: 326px){
+    .productphoto{
+        width: 100%;
+        height: 450px;
+    }
+    
+    #carouselExampleCaptions, .carousel-item, .carousel-inner{
+    width: 100%;
+    height: 350px;
+
+    }
+    .alto-img{
+        width: 100%;
+        height: 350px;
+    }
+} 
+@media  (min-width: 526px){
+    .productphoto{
+        width: 100%;
+        height: 450px;
+    }
+    
+    #carouselExampleCaptions, .carousel-item, .carousel-inner{
+    width: 100%;
+    height: 350px;
+
+    }
+    .alto-img{
+        width: 100%;
+        height: 350px;
+    }
+} 
+@media  (min-width: 626px){
+    #novedades .card, .productphoto{
+        width: 100%;
+        height: 350px;
+        margin: 0 auto;
+    }
+    
+    #carouselExampleCaptions, .carousel-item, .carousel-inner{
+    width: 100%;
+    height: 350px;
+
+    }
+    .alto-img{
+        width: 100%;
+        height: 350px;
+    }
+} 
+@media  (min-width: 770px){
+    #novedades .card, .productphoto{
+        width: 100%;
+        height: 350px;
+        margin: 0 auto;
+    }
+    img{
+        width: 100%;
+    }
+    
+    #carouselExampleCaptions, .carousel-item, .carousel-inner{
+    width: 100%;
+    height: 350px;
+
+    }
+    .alto-img{
+        width: 100%;
+        height: 350px;
+    }
+} 
+
+@media  (min-width: 900px){
+    .productphoto{
+        width: 100%;
+        height: 340px;
+    }
+
+    img{
+        width: 100%;
+    }
+    
+    #carouselExampleCaptions, .carousel-item, .carousel-inner{
+    width: 100%;
+    /* height: 350px; */
+
+    }
+    .alto-img{
+        width: 100%;
+        height: auto;
+    }
+} 
+
+
+
+@media  (min-width: 1200px){
+    .productphoto{
+        width: 100%;
+        /* height: 340px; */
+    }
+
+    img{
+        width: 100%;
+    }
+    
+    #carouselExampleCaptions, .carousel-item, .carousel-inner{
+    width: 100%;
+    height: 350px;
+
+    }
+    .alto-img{
+        width: 100%;
+        height: 350px;
+    }
+} 
